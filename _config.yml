@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Shahin John J S"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Shahin John J S"
+description              : &description "PhD Student at Texas A&M | Former SDE II at Tesco Bengaluru | NIT Calicut Alumnus"
+url                      : https://ivinjohn98.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,22 +23,22 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shahin John J S"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am pursuing a Ph.D. in Computer Science at Texas A&M, where my research focuses on designing efficient streaming algorithms. My passion for algorithms and their complexity drives my academic journey as I aim to develop innovative solutions that can shape the future of computing.\n Having spent significant time in the software industry as a backend developer at Tesco Bengaluru, I have had the opportunity to work with technologies like Java, Spring Boot, REST APIs, Kafka, ElasticSearch, Couchbase, and Microsoft Azure. This hands-on industry experience has given me a unique perspective on computer science, allowing me to approach my research from practical and real-world angles.\n I am passionate about applying my research skills to solve real-life problems and bridge the gap between theory and application. My goal is to design solutions that advance the field of computer science and have a tangible impact on industries and society as a whole."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Texas A&M University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ivin-98@tamu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3544-5400"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : 
+  researchgate     : "https://www.researchgate.net/scientific-contributions/Shahin-John-J-S-2233548366"
   scopus           : # URL
 
   # Repositories and software development
