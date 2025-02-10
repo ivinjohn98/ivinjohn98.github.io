@@ -15,7 +15,7 @@ name                     : &name "Shahin John J S"
 description              : &description "PhD Student at Texas A&M | Former SDE II at Tesco Bengaluru | NIT Calicut Alumnus"
 url                      : https://ivinjohn98.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/ivinjohn98"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
