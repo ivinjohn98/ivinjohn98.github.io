@@ -1,7 +1,7 @@
 ---
 title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Graduate Course"
+type: "Undergraduate Course"
 permalink: /teaching/2024-fall-teaching
 venue: "Texas A&M University, CSCE department"
 date: 2024-08-15
