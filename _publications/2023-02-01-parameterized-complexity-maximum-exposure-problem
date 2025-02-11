@@ -7,7 +7,7 @@ excerpt: 'We investigate the parameterized complexity of the Maximum Exposure Pr
 date: 2023-02-01
 venue: 'Information Processing Letters'
 paperurl: 'https://doi.org/10.1016/j.ipl.2022.106338'
-citation: 'Raman, R., John J S, S., R, S., & Methirumangalath, S. (2023). On the parameterized complexity of the Maximum Exposure Problem. Information Processing Letters, 180, 106338.'
+citation: 'Raman, R., John J S, S., R, S., & Methirumangalath, S. (2023). On the parameterized complexity of the Maximum Exposure Problem. Information Processing Letters, 180, 106338. https://doi.org/10.1016/j.ipl.2022.106338.'
 ---
 
 We investigate the parameterized complexity of the Maximum Exposure Problem (MEP). Given a range space (R, P) where R is the set of ranges containing a set P of points and an integer k, MEP asks for k ranges, which on removal results in the maximum number of exposed points. A point p is said to be exposed when p is not contained in any of the ranges in R. The problem is known to be NP-hard. In this paper, we give fixed-parameter tractable results of MEP with respect to different parameterizations.
