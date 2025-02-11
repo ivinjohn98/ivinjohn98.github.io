@@ -1,14 +1,19 @@
 ---
-title: "Paper Title Number 2"
+title: "On the parameterized complexity of the Maximum Exposure Problem"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2023-02-01-parameterized-complexity-maximum-exposure-problem
+excerpt: 'We investigate the parameterized complexity of the Maximum Exposure Problem (MEP). Given a range space (R, P) where R is the set of ranges containing a set P of points and an integer k, MEP asks for k ranges, which on removal results in the maximum number of exposed points. A point p is said to be exposed when p is not contained in any of the ranges in R. The problem is known to be NP-hard. In this paper, we give fixed-parameter tractable results of MEP with respect to different parameterizations.'
+date: 2023-02-01
+venue: 'Information Processing Letters'
+paperurl: 'https://doi.org/10.1016/j.ipl.2022.106338'
+citation: 'Raman, R., John J S, S., R, S., & Methirumangalath, S. (2023). On the parameterized complexity of the Maximum Exposure Problem. Information Processing Letters, 180, 106338.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We investigate the parameterized complexity of the Maximum Exposure Problem (MEP). Given a range space (R, P) where R is the set of ranges containing a set P of points and an integer k, MEP asks for k ranges, which on removal results in the maximum number of exposed points. A point p is said to be exposed when p is not contained in any of the ranges in R. The problem is known to be NP-hard. In this paper, we give fixed-parameter tractable results of MEP with respect to different parameterizations.
+
+Highlights of the paper
+1. Maximum Exposure Problem (MEP) is not studied till date in the realm of parameterized complexity.
+2. MEP is proved to be W[1]-hard with respect to the solution size, using parameterized reductions.
+3. MEP is proved to be Fixed Parameter Tractable (FPT) for a multiparameterization, using Greediness of parameterization approach.
+4. MEP is proved to be Fixed Parameter Tractable (FPT) with respect to the number of cells that contain points.
